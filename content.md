@@ -71,7 +71,6 @@ Uwzględnij zasady działania stacji opisane na początku zadania i podaj:
 
 
 # Do oceny oddajesz:
-- plik tekstowy `answers.txt` zawierający odpowiedzi do zadań 6.1.–6.5. Odpowiedź do
-każdego zadania powinna być poprzedzona jego numerem.
+- plik tekstowy `answers.txt` zawierający odpowiedzi do zadań 6.1.–6.5 Odpowiedź do każdego zadania powinna być poprzedzona jego numerem.
 - plik zawierający wykres do zadania 6.4. o nazwie: `graph.png`
 - plik(pliki) zawierający(-e) komputerową realizację Twoich rozwiązań.
