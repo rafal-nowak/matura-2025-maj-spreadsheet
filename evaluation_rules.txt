@@ -1,0 +1,28 @@
+6.1
+2 pkt – za poprawną odpowiedź, w tym:
+    1 pkt – za łączną masę ładunków
+    1 pkt – za łączną masę martianeum.
+0 pkt – za odpowiedź niepoprawną albo za brak odpowiedzi.
+
+6.2
+1 pkt – za poprawną odpowiedź.
+0 pkt – za odpowiedź niepoprawną albo za brak odpowiedzi.
+
+6.3
+2 pkt – za poprawną odpowiedź, w tym:
+    1 pkt – za datę
+    1 pkt – za masę.
+0 pkt – za odpowiedź niepoprawną albo za brak odpowiedzi.
+
+6.4
+3 pkt – za poprawną odpowiedź, w tym:
+    1 pkt – za poprawne zestawienie
+    1 pkt – za prawidłowy dobór danych i typ wykresu
+    1 pkt – za poprawny opis wykresu i osi (tytuł, legenda, nazwy obszarów na osi X, opisy na osiach X i Y).
+0 pkt – za odpowiedź niepoprawną albo za brak odpowiedzi.
+
+6.5
+3 pkt – za poprawną odpowiedź, w tym:
+    1 pkt – za podanie prawidłowej liczby wysyłek ładunku na orbitę
+    2 pkt – za podanie prawidłowych dat (w tym po 1 pkt za datę początku i końca okresu).
+0 pkt – za odpowiedź niepoprawną albo za brak odpowiedzi.
