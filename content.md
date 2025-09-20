@@ -15,7 +15,7 @@ Ziemię, a transporter wraca do stacji (jeśli na stacji zgromadzone jest więce
 nadmiar pozostaje na stacji)
 - początkowy stan magazynu na stacji – 0 kg martianeum.
 
-W pliku tekstowym `martianeum.txt` w kolejnych wierszach zapisano dane z lat 2033–
+W pliku tekstowym `data.txt` w kolejnych wierszach zapisano dane z lat 2033–
 2038:
 `data` – data przywozu ładunku w formacie rrrr-mm-dd
 
@@ -39,8 +39,8 @@ Dane w pliku rozdzielono znakami tabulacji.
 | 2033-03-07 | Ismenius Lacus  | 28,8      | 0,0           |
 | 2033-03-08 | Mare Boreum     | 29,2      | 0,0           |
 
-Z wykorzystaniem danych zawartych w pliku `martianeum.txt` oraz dostępnych narzędzi
-informatycznych wykonaj podane zadania. Wyniki zapisz w pliku tekstowym `wyniki6.txt`.
+Z wykorzystaniem danych zawartych w pliku `data.txt` oraz dostępnych narzędzi
+informatycznych wykonaj podane zadania. Wyniki zapisz w pliku tekstowym `answers.txt`.
 Odpowiedź do każdego zadania poprzedź numerem tego zadania.
 
 ## Zadanie 6.1. (0−2)
@@ -71,9 +71,7 @@ Uwzględnij zasady działania stacji opisane na początku zadania i podaj:
 
 
 # Do oceny oddajesz:
-- plik tekstowy `wyniki6.txt` zawierający odpowiedzi do zadań 6.1.–6.5. Odpowiedź do
+- plik tekstowy `answers.txt` zawierający odpowiedzi do zadań 6.1.–6.5. Odpowiedź do
 każdego zadania powinna być poprzedzona jego numerem.
-- plik zawierający wykres do zadania 6.4. o nazwie: `wykres6.jpg`
-- plik(pliki) zawierający(-e) komputerową realizację Twoich rozwiązań o nazwie(-ach):
-(uwaga: brak tych plików jest równoznaczny z brakiem rozwiązania zadania)
-
+- plik zawierający wykres do zadania 6.4. o nazwie: `graph.png`
+- plik(pliki) zawierający(-e) komputerową realizację Twoich rozwiązań.
